@@ -12,7 +12,7 @@ const View = () => {
                 <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
                 <div class="card">
-  <img src="..." class="card-img-top" alt="..."></img>
+  <img src="" class="card-img-top" alt=""></img>
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quiulk of the card's content.</p>
